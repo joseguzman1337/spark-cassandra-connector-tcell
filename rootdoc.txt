@@ -1,2 +1,0 @@
-Cassandra connector for Apache Spark.
-See documentation of package [[com.datastax.spark.connector]].
